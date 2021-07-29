@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Encho Karov
 - 👀 I’m interested in React
+- 💗 I love Redux
 - 🌱 I’m currently learning whatever is FOTM obviously 😎
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
